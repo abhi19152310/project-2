@@ -1,0 +1,16 @@
+#intialbox{
+    background-color:rgb(10, 216, 216);
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+body{
+  margin: 0;
+}
+#content {
+  margin: 0;
+  padding: 0; 
+  text-align: center;
+  box-sizing: border-box;
+  
+}
